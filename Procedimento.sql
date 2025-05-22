@@ -1,3 +1,6 @@
+/*
+Questão 01. Crie um procedimento denominado salaryHistogram, que distribua as frequências dos salários dos Professores em intervalos (Histograma).
+*/
 CREATE PROCEDURE dbo.salaryHistogram @qtdIntervalo INT
 AS
 BEGIN
